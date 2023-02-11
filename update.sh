@@ -5,9 +5,9 @@ private_port=$4 # Natter: $3; NATMap: $4
 public_port=$2 # Natter: $5; NATMap: $2
 
 # qBittorrent.
-qb_web_port="8080"
-qb_username="admin"
-qb_password="adminadmin"
+qb_web_port="20909"
+qb_username="hequn"
+qb_password="hequndev"
 
 echo "Update qBittorrent listen port to $public_port..."
 
